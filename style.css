@@ -1,0 +1,29 @@
+h1 {
+    color: brown;
+}
+*
+{
+    border: solid;
+}
+.header
+{
+    font: 200;
+    font-family: Arial;
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu
+{
+   
+    font-family: gill-Sans;
+    background-color:cornflowerblue; 
+}
+
+.grid
+{
+    display: flex;
+    justify-content:space-around;
+    background-color: chartreuse;
+}
